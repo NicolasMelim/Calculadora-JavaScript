@@ -1,0 +1,54 @@
+body {
+	background: rgb(142, 133, 128);
+}
+.wrapper {
+	width: 450px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: #5b5858;
+	padding: 50px;
+	color: #fff;
+	text-align: center;
+	border-radius: 30px;
+	border-color: rgba(255, 0, 0, 0.5);
+    border-width: 2px
+}
+.wrapper h2 {
+	text-transform: uppercase;
+	font-family: poppins;
+	margin-bottom: 10%;
+}
+input[type="text"] {
+	
+	height: 40px;
+
+}
+input[type="text"] {
+	font-size: 24px;
+}
+button {
+	background: #964960;
+	border-radius: solid black 5px;
+	color: #fff;
+	display: inline-block;
+	padding: 10px 25px;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-family: poppins;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+input[type="radio"] {
+	width: 20px;
+	height: 20px;
+	border-radius: 30px;
+}
+b {
+	font-size: 30px;
+}
+.resultArea{
+	border-radius: 6px;
+
+}
